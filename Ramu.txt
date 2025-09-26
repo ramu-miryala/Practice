@@ -1,4 +1,7 @@
 Hi Ramu
 Hi Triniti
+<<<<<<< HEAD
 nano is used to write text in file 0r modify the file 
 By using Cat command we can write text in the file , as well as we view it on display , and this command is used to override file content
+=======
+>>>>>>> b1dbb6344615d10bda893db431141d6abef4fcb8
