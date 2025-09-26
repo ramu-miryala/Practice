@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 Hi Ramu
 Hi Triniti
-=======
-Hi Ramu , How r u , I hope u doing well
->>>>>>> 49a27eb (3)
-=======
-Hi Ramu , How r u , I hope u doing well
->>>>>>> afea9db (3)
+Hi Ramu , How r u , I hope u doing wellwq
+Hi dude
+How r u
+
