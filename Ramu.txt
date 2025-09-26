@@ -1,1 +1,4 @@
-Hi Triniti 
+Hi Ramu
+Hi Triniti
+nano is used to write text in file 0r modify the file 
+By using Cat command we can write text in the file , as well as we view it on display , and this command is used to override file content
